@@ -19,7 +19,7 @@ chia@mac1234 Resources% pwd
 4. 
 
 
-[畫面如下:](https://github.com/Charles-Hsu/xcode-customized-keybinding/blob/master/xcode-key-bindings-config.png)
+![畫面如下:](https://github.com/Charles-Hsu/xcode-customized-keybinding/blob/master/xcode-key-bindings-config.png)
 
 
 
