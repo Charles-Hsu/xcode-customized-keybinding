@@ -17,9 +17,7 @@ chia@mac1234 Resources% pwd
 2. 所以乾脆把改好的檔案存到 github 來, 下次要用到時, 直接覆蓋過去就好了
 3. Restart Xcode, Preference/Key Binding, 選 Customized, 在其中設定 Delete Current Line, Insert New Line Below, Insert New Line Above, Duplicate Current Line 的組合鍵
 
-畫面如下:
-
-
+![畫面如下:](https://drive.google.com/file/d/0Bws2PtcG81drS0JsS0h3U0RDNWc/view?usp=sharing)
 
 
 
